@@ -1,0 +1,5 @@
+*********** Payment List (2020_04_18) ***********
+Order ID: 101  StaffName:Ritesh Kothawade                Work time:0.00  Pay:100.00
+Order ID: 102  StaffName:Anuja Jadhav                    Work time:0.00  Pay:100.00
+-------------------------------------------------------
+Total payment:$200.0(2)
